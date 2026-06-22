@@ -1,0 +1,19 @@
+{
+  "name": "ToxiGuard — Aide décisionnelle en toxicologie",
+  "short_name": "ToxiGuard",
+  "description": "Outil d'aide à la décision pour la prise en charge des intoxications aiguës en médecine d'urgence.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0f1a",
+  "theme_color": "#1a3a5c",
+  "categories": ["medical", "health", "education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
